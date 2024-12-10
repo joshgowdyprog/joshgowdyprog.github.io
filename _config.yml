@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dr Joshua Gowdy"
+title                    : "Joshua Gowdy"
 title_separator          : "-"
 name                     : &name "Joshua Gowdy"
 description              : &description "personal description"
@@ -22,11 +22,12 @@ repository               : "joshgowdyprog/joshgowdyprog.github.io"
 author:
   # Biographic information
   avatar           : # "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Joshua Gowdy"
   pronouns         : # example: "she/her"  
-  bio              : "Theoretical Physicist, Data Scientist, Environmentalist"
+  bio              : "Theoretical Physicist, Data Scientist and Environmentalist"
   location         : "London, UK"
-  employer         : "University of Oxford, Queen Mary University of London"
+  Masters          : "University of Oxford"
+  PhD              : "Queen Mary University of London"
   uri              : # URL
   email            : #"@example.org" 
 
@@ -59,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : 'Joshua Gowdy'
+  linkedin         : 'linkedin.com/in/joshua-gowdy-phd-5b768717b'
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
